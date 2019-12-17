@@ -5,8 +5,8 @@
     "keywords":["Laravel", "Lumen", "Slack"],
     "authors": [
         {
-            "name": "Vagner do Carmo",
-            "email": "vluzrmos@gmail.com"
+            "name": "Andrey Bunyaev",
+            "email": "abunyaev@gmail.com"
         }
     ],
     "require": {
