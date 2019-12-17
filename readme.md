@@ -8,7 +8,7 @@ This package provides a simple way to use [Slack API](https://api.slack.com).
 
 ## Instalation 
 
-`composer require vluzrmos/slack-api`
+`composer require r0dger/slack-api`
 
 ## Instalation on Laravel 5
 Add to `config/app.php`:
